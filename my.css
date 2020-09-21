@@ -458,6 +458,7 @@ body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   font-size: 1.1em;
   color: white;
+  overflow: scroll;
 }
 .edit a {
   color: white;
